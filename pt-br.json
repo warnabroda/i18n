@@ -88,7 +88,7 @@
     },
     "warning" : {
         "title": "Warn A Broda",
-        "subtitle": "Quem avisa, amigo é.",
+        "subtitle": "Envie agora mensagens anônimas!",
     	"send": "Avisa lá",
     	"warn_via": "Warn via ",
     	"amigo_avisado": "Broda avisado(a) com sucesso.",
@@ -124,7 +124,7 @@
         "no": "Não",
         "id": "Id",
         "type": "Tipo",
-        "warn": "Warn",        
+        "warn": "Mensagem",
         "warn_the_broda": "Avisar",
         "message": "Mensagem",
         "contact": "Contato",

@@ -87,8 +87,8 @@
         "disabled": "Desactivada"
     },
     "warning" : {
-        "title": "Warn A Broda",
-        "subtitle": "Solo los buenos amigos te abren los ojos.",
+        "title": "Warn A Broda",        
+        "subtitle": "Enviar mensajes anónimos ahora!",
         "send": "Dale",
         "warn_via": "Warn via ",
         "amigo_avisado": "Broda notificado(a) con éxito.",
@@ -124,7 +124,7 @@
         "no": "No",
         "id": "Id",
         "type": "Tipo",
-        "warn": "Warn",        
+        "warn": "Mensaje",
         "warn_the_broda": "Avisar",
         "message": "Aviso",
         "contact": "Contacto",

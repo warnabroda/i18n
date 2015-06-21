@@ -88,7 +88,7 @@
     },
     "warning" : {
         "title": "Warn A Broda",
-        "subtitle": "If you see something, Warn A Broda!",
+        "subtitle": "Send anonymous messages now!",
         "send": "Do it now",
         "warn_via": "Warn via ",
         "amigo_avisado": "Broda has been warned.",
@@ -124,7 +124,7 @@
         "no": "No",
         "id": "Id",
         "type": "Type",
-        "warn": "Warn",     
+        "warn": "Message",
         "warn_the_broda": "Warn",   
         "message": "Message",
         "contact": "Contact",
